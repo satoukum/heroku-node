@@ -3,11 +3,6 @@ img.logo-img {
   height: 60px;
 }
 
-/**
-.card.small {
-  width: 300px;
-}*/
-
 .card.micro .card-action {
   position: absolute;
   bottom: 0;
